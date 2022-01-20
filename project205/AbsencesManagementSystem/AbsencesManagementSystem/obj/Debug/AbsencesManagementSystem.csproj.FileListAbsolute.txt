@@ -1,0 +1,17 @@
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\bin\Debug\AbsencesManagementSystem.exe.config
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\bin\Debug\AbsencesManagementSystem.exe
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\bin\Debug\AbsencesManagementSystem.pdb
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\obj\Debug\AbsencesManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\obj\Debug\AbsencesManagementSystem.Properties.Resources.resources
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\obj\Debug\AbsencesManagementSystem.csproj.GenerateResource.Cache
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\obj\Debug\AbsencesManagementSystem.exe
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\obj\Debug\AbsencesManagementSystem.pdb
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\obj\Debug\AbsencesManagementSystem.Home.resources
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\obj\Debug\AbsencesManagementSystem.Ues.resources
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\obj\Debug\AbsencesManagementSystem.Etudiants.resources
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\bin\Debug\MySql.Data.Entity.dll
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\obj\Debug\AbsencesManagementSystem.Notes.resources
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\obj\Debug\AbsencesManagementSystem.Absences.resources
+C:\Users\23767\Documents\Visual Studio 2012\Projects\project205\AbsencesManagementSystem\AbsencesManagementSystem\obj\Debug\AbsencesManagementSystem.Login.resources
